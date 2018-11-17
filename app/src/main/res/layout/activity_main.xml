@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:background="@drawable/background"
+  tools:context=".MainActivity"
+  tools:layout_editor_absoluteY="81dp">
+
+  <Button
+    android:id="@+id/button_lower"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#8079aec7"
+    android:onClick="startWorkout"
+    android:text="  Lower Body  "
+    android:textColor="@android:color/white"
+    app:layout_constraintBaseline_toBaselineOf="@+id/button_upper"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintHorizontal_bias="0.5"
+    app:layout_constraintStart_toEndOf="@+id/button_upper"/>
+  <Button
+    android:id="@+id/button_upper"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="48dp"
+    android:background="#8079aec7"
+    android:onClick="startWorkout"
+    android:text="  Upper Body  "
+    android:textColor="@android:color/white"
+    app:layout_constraintEnd_toStartOf="@+id/button_lower"
+    app:layout_constraintHorizontal_bias="0.5"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toBottomOf="@+id/textView"/>
+  <TextView
+    android:id="@+id/textView"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="180dp"
+    android:text="Choose your Workout!"
+    android:textAppearance="@android:style/TextAppearance.DeviceDefault"
+    android:textColor="@android:color/white"
+    android:textSize="36sp"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintHorizontal_bias="0.51"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent"/>
+</android.support.constraint.ConstraintLayout>

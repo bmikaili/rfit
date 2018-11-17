@@ -1,0 +1,132 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:2:1-34:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3731ae90ba993a8299ce33826818db27/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/23012ecb6c2709252f51ed788e41a851/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/210942b8ec32479448a1121ff1401a18/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4cdc6b40a95d29ab9a7895b9d6b40eec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/eaed6b716e054981e856fe55b157e993/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/deabfd60e0fe4ed14814a2ae002177aa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/94c46fc44c80389806307815aee0069e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/3acdc3d266a742776685ee3f046703c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a2aab8006d63fa790a60cd7f9d2eea1c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/dd7bf895681cefd2829886d65850e43e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6188a0e33e4bb123470ebe617ea6ae9d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0c5f3e01923d3a5638917ccf30acf74c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8c5e2e76f96db17ea6636157e40923e6/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:4:3-25
+		INJECTED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml
+		ADDED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:3:3-49
+	android:versionCode
+		INJECTED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml
+		ADDED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:6:3-32:17
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/23012ecb6c2709252f51ed788e41a851/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/23012ecb6c2709252f51ed788e41a851/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:11:5-31
+	android:label
+		ADDED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:9:5-37
+	tools:ignore
+		ADDED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:13:5-56
+	android:roundIcon
+		ADDED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:10:5-50
+	android:icon
+		ADDED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:8:5-39
+	android:allowBackup
+		ADDED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:7:5-31
+	android:theme
+		ADDED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:12:5-36
+activity#com.iot.rfit.MainActivity
+ADDED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:14:5-20:16
+	android:name
+		ADDED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:14:15-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:15:7-19:23
+action#android.intent.action.MAIN
+ADDED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:16:9-60
+	android:name
+		ADDED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:16:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:18:9-68
+	android:name
+		ADDED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:18:19-66
+activity#com.iot.rfit.WorkoutActivity
+ADDED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:21:5-28:16
+	android:parentActivityName
+		ADDED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:23:7-49
+	android:label
+		ADDED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:22:7-33
+	tools:targetApi
+		ADDED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:24:7-35
+	android:name
+		ADDED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:21:15-46
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:25:7-27:41
+	android:value
+		ADDED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:26:9-55
+activity#com.iot.rfit.ExerciseActivity
+ADDED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:29:5-31:16
+	android:label
+		ADDED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:30:7-38
+	android:name
+		ADDED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml:29:15-47
+uses-sdk
+INJECTED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml
+INJECTED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3731ae90ba993a8299ce33826818db27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3731ae90ba993a8299ce33826818db27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/23012ecb6c2709252f51ed788e41a851/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/23012ecb6c2709252f51ed788e41a851/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/210942b8ec32479448a1121ff1401a18/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/210942b8ec32479448a1121ff1401a18/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4cdc6b40a95d29ab9a7895b9d6b40eec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4cdc6b40a95d29ab9a7895b9d6b40eec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/eaed6b716e054981e856fe55b157e993/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/eaed6b716e054981e856fe55b157e993/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/deabfd60e0fe4ed14814a2ae002177aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/deabfd60e0fe4ed14814a2ae002177aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/94c46fc44c80389806307815aee0069e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/94c46fc44c80389806307815aee0069e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/3acdc3d266a742776685ee3f046703c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/3acdc3d266a742776685ee3f046703c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a2aab8006d63fa790a60cd7f9d2eea1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a2aab8006d63fa790a60cd7f9d2eea1c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/dd7bf895681cefd2829886d65850e43e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/dd7bf895681cefd2829886d65850e43e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6188a0e33e4bb123470ebe617ea6ae9d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6188a0e33e4bb123470ebe617ea6ae9d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0c5f3e01923d3a5638917ccf30acf74c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0c5f3e01923d3a5638917ccf30acf74c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8c5e2e76f96db17ea6636157e40923e6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/berzanmikaili/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8c5e2e76f96db17ea6636157e40923e6/AndroidManifest.xml:20:5-44
+INJECTED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml
+INJECTED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml
+		ADDED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml
+		ADDED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/berzanmikaili/Library/Mobile Documents/com~apple~CloudDocs/Uni/Semester 5/UPF/IoT/Seminar/rfit/app/src/main/AndroidManifest.xml
